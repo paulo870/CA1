@@ -379,7 +379,6 @@ slideContainer.addEventListener("touchcancel", function() {
     pinchStartDistance = null;
 
 }, { passive: false });
-
 // ==========================
 // HOME BUTTON
 // ==========================
